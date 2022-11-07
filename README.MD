@@ -1,6 +1,6 @@
 # Documentation
 
-Implementation insert/upload video to YouTube with YouTube Data API V3.
+Implementation insert/upload video or short videos to YouTube with YouTube Data API V3.
 This project use kotlin as programming language and YouTube library and Google Client Api for Authorization.
 
 ## Usage
